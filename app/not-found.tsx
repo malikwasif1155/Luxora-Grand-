@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main><section className="section" style={{paddingTop:180,minHeight:'75vh'}}><div className="container" style={{textAlign:'center',maxWidth:700}}><div className="eyebrow">404</div><h1 className="serif" style={{fontSize:64}}>This room doesn't exist.</h1><p className="muted">The page you requested may have moved. Let's get you back to somewhere beautiful.</p><Link href="/" className="btn btn-gold" style={{marginTop:20}}>Return home</Link></div></section></main>}
