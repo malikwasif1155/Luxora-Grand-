@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malikwasif1155.github.io/Luxora-Grand-/sitemap.xml
